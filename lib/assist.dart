@@ -15,7 +15,7 @@ class assist extends StatefulWidget {
 
 class _assistState extends State<assist> {
   
-  String api = "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";
+  String api = "GROQ_API_KEY";
   final SpeechToText speech = SpeechToText();
   bool enabled = false;
   String words = '';
