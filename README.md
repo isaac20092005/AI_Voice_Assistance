@@ -1,17 +1,19 @@
-# voice_assistance
+# AI voice_assistance Mobile Application
 
-A new Flutter project.
+## Features
+- Speech to Text
+- Calls AI model using api and gets the response for user input
+- Text to Speech
+- Supports Different Languages (English, Hindi, Tamil, Telugu, Malayalam)
+- Login and Registration (Using Proper Verification from Cloud DB)
 
-## Getting Started
+## Technologies
+- Flutter
+- php
+- speech to text
+- text to speech (tts)
+- Groq API
+- googiehost for online DataBase & php file storing
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+- Isaac S
